@@ -117,6 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+   <data name="ethprice_cmd" xml:space="preserve">
+     <value>ethprice</value>
+   </data>
+   <data name="ethprice_desc" xml:space="preserve">
+     <value>Get the price of Ethereum in USD/ETH</value>
+   </data>
+   <data name="ethprice_usage" xml:space="preserve">
+     <value>`{0}ethprice`</value>
+  </data>
+  <data name="btcprice_cmd" xml:space="preserve">
+    <value>btcprice</value>
+  </data>
+  <data name="btcprice_desc" xml:space="preserve">
+    <value>Get the price of Bitcoin in USD/ETH</value>
+  </data>
+  <data name="btcprice_usage" xml:space="preserve">
+    <value>`{0}btcprice`</value>
+  </data>
   <data name="h_cmd" xml:space="preserve">
     <value>help h</value>
   </data>
